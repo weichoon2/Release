@@ -1,6 +1,6 @@
 # Release
 
-影視TV
+Colbie TV
 
 mobile = 手机版
 
