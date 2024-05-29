@@ -1,6 +1,6 @@
 # Release
 
-##影視TV
+影視TV
 mobile = 手机版
 leanback = 电视版
 
