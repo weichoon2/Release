@@ -1,5 +1,5 @@
 {
   "code": 2,
   "name": "2.3.5-cwc",
-  "desc": "*[共通]\\n* 优化Youtube"
+  "desc": "*[共通]\\n* 优化Youtube\\n* 推荐页只显示允许的分类"
 }
