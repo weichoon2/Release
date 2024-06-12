@@ -1,5 +1,5 @@
 {
   "code": 7,
-  "name": "2.3.8-cwc",
-  "desc": "*[Common]\n* Default ad block rule\n* Ad Block Notification\n* Hide Danmu/Proxy/Tunnel"
+  "name": "2.3.8.1-cwc",
+  "desc": "*[Common]\n* Default ad block rule\n* Ad Block Notification\n* Hide Danmu/Proxy/Tunnel\n* Kept one backup only (colbietv.tv.backup)"
 }
