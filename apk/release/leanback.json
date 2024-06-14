@@ -1,5 +1,5 @@
 {
-  "code": 8,
-  "name": "2.3.9",
-  "desc": "*[Common]\n* Kept one backup only (colbietv.tv.backup)\n* Hide Aggregated Search\n*[Leanback]\n* Hide Parse Webview"
+  "code": 9,
+  "name": "2.3.10",
+  "desc": "*[Common]\n* Support encrypted config file"
 }

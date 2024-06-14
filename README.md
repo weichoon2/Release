@@ -1,6 +1,6 @@
 # Release
 
-Colbie TV (2.3.7-cwc)
+Colbie TV (2.3.10)
 
 mobile = 手机版
 
