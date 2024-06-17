@@ -1,5 +1,5 @@
 {
-  "code": 9,
-  "name": "2.3.10",
-  "desc": "*[Common]\n* Support encrypted config file"
+  "code": 10,
+  "name": "2.3.11",
+  "desc": "*[Common]\n* Remove Danmu"
 }
