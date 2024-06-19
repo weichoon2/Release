@@ -1,6 +1,6 @@
 # Release
 
-Colbie TV (2.3.10)
+Colbie TV (2.3.12)
 
 mobile = 手机版
 

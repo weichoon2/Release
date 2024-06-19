@@ -1,5 +1,5 @@
 {
-  "code": 10,
-  "name": "2.3.11",
-  "desc": "*[Common]\n* Remove Danmu"
+  "code": 11,
+  "name": "2.3.12",
+  "desc": "*[Common]\n* Live Home selection move to leftmost"
 }
