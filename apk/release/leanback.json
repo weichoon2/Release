@@ -1,5 +1,5 @@
 {
-  "code": 11,
-  "name": "2.3.12",
-  "desc": "*[Common]\n* Live Home selection move to leftmost"
+  "code": 12,
+  "name": "2.3.13",
+  "desc": "*[Common]\n* Display video title\n* Skip cache for wallpaper\n* Fix speed control\n* Update Restore"
 }
