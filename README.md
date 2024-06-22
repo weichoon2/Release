@@ -2,7 +2,7 @@
 
 Colbie TV (2.3.13)
 
-Colbie TV是根据OK影视(https://github.com/FongMi/TV)做了一些专为个人习惯修改（例如：没弹幕/源加密/没AI去广告但可用Rules/删除一些海外不会用到的功能）。
+Colbie TV是根据OK影视 (https://github.com/FongMi/TV) 做了一些专为个人习惯修改（例如：没弹幕/源加密/没AI去广告但可用Rules/删除一些海外不会用到的功能）。
 
 因为是个人使用，源码在私库，不打算公开。
 
