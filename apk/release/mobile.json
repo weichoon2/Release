@@ -1,5 +1,5 @@
 {
-  "code": 13,
-  "name": "2.4.0",
-  "desc": "*[Common]\n* Fix Regex Rule Bug\n* Optimize fetch xml epg"
+  "code": 14,
+  "name": "2.4.1",
+  "desc": "*[Common]\n* Support youtube playlist"
 }
