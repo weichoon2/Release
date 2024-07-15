@@ -1,5 +1,5 @@
 {
-  "code": 14,
-  "name": "2.4.1",
-  "desc": "*[Common]\n* Support youtube playlist"
+  "code": 15,
+  "name": "2.4.2",
+  "desc": "*[Common]\n* Fix Push YT Playlist (>200 videos) bug"
 }
