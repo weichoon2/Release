@@ -1,6 +1,6 @@
 # Release
 
-Colbie TV (2.4.3) 
+Colbie TV (2.4.4) 
 
 从2.4.3开始，只提供Java版本，档案名字暂时还是Python,避免影响现时的在线更新。
 
