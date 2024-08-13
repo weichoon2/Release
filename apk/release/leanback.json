@@ -1,5 +1,5 @@
 {
-  "code": 17,
-  "name": "2.4.4",
-  "desc": "*[Common]\n* Upgrade AndroidX Media 1.4.0"
+  "code": 18,
+  "name": "2.4.5",
+  "desc": "*[Common]\n* \nIgnore fake sync byte"
 }
