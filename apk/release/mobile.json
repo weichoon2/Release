@@ -1,5 +1,5 @@
 {
-  "code": 20,
-  "name": "2.4.7",
-  "desc": "*[Common]\n* 升级quickjs"
+  "code": 21,
+  "name": "2.4.8",
+  "desc": "*[Common]\n* Fix bug"
 }
