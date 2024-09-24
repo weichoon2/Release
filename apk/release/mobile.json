@@ -1,5 +1,5 @@
 {
-  "code": 22,
-  "name": "2.4.9",
-  "desc": "*[Common]\n* Fix IJK bug"
+  "code": 25,
+  "name": "2.5.2",
+  "desc": "*[Common]\n* Add extra Youtube API Key"
 }
