@@ -1,5 +1,5 @@
 {
-  "code": 26,
-  "name": "2.5.3",
-  "desc": "*[Common]\n* Update Youtube API"
+  "code": 27,
+  "name": "2.5.4",
+  "desc": "*[Common]\n* JAR support md5 url"
 }
