@@ -1,5 +1,5 @@
 {
-  "code": 27,
-  "name": "2.5.4",
-  "desc": "*[Common]\n* JAR support md5 url"
+  "code": 28,
+  "name": "2.5.5",
+  "desc": "*[Common]\n* Upgrade AndroidX Media 1.5.1"
 }
