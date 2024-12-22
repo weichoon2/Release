@@ -1,5 +1,5 @@
 {
-  "code": 28,
-  "name": "2.5.5",
-  "desc": "*[Common]\n* Upgrade AndroidX Media 1.5.1"
+  "code": 29,
+  "name": "2.5.6",
+  "desc": "*[Common]\n* Upgrade AndroidX Media 1.5.1\n* Update compileSdk 35\n* Remove unnecessary library"
 }
