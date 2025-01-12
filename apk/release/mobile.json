@@ -1,5 +1,5 @@
 {
-  "code": 29,
-  "name": "2.5.6",
-  "desc": "*[Common]\n* Upgrade AndroidX Media 1.5.1\n* Update compileSdk 35\n* Remove unnecessary library"
+  "code": 30,
+  "name": "2.6.0",
+  "desc": "*[Common]\n* Get AndroidX Media From Google Maven repository instead of Locally\n* Remove Force\n* Remove TVBus\n* Remove ZLive"
 }
