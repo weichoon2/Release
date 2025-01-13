@@ -1,5 +1,5 @@
 {
-  "code": 31,
-  "name": "2.6.1",
-  "desc": "*[VOD]\n* Youtube use M3U8 instead of MPD"
+  "code": 32,
+  "name": "2.6.2",
+  "desc": "*[VOD]\n* Revert Youtube use M3U8 instead of MPD"
 }
