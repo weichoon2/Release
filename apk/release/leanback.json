@@ -1,5 +1,5 @@
 {
-  "code": 33,
-  "name": "2.6.3",
-  "desc": "*[Common]\n* Youtube use M3U8 instead of MPD\n* Preferred Video H264\n* Preferred Audio AAC"
+  "code": 34,
+  "name": "2.6.4",
+  "desc": "*[Common]\n* Implement retry for Youtube playabilityStatus LOGIN_REQUIRED"
 }
