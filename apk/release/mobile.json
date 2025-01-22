@@ -1,5 +1,5 @@
 {
-  "code": 34,
-  "name": "2.6.4",
-  "desc": "*[Common]\n* Implement retry for Youtube playabilityStatus LOGIN_REQUIRED"
+  "code": 35,
+  "name": "2.6.5",
+  "desc": "*[Common]\n* Add nanohttpd\n* Update YT retry loop to 30\n* Delete Go Proxy Video\n* Update CustomWebView"
 }
