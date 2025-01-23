@@ -1,5 +1,5 @@
 {
-  "code": 35,
-  "name": "2.6.5",
-  "desc": "*[Common]\n* Add nanohttpd\n* Update YT retry loop to 30\n* Delete Go Proxy Video\n* Update CustomWebView"
+  "code": 36,
+  "name": "2.6.6",
+  "desc": "*[Common]\n* Fix YT"
 }
