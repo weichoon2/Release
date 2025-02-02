@@ -1,5 +1,5 @@
 {
-  "code": 36,
-  "name": "2.6.6",
-  "desc": "*[Common]\n* Fix YT"
+  "code": 37,
+  "name": "2.6.7",
+  "desc": "*[Common]\n* Fix YT(sw.js_data)"
 }
