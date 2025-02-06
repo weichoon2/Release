@@ -1,5 +1,5 @@
 {
-  "code": 37,
-  "name": "2.6.7",
-  "desc": "*[Common]\n* Fix YT(sw.js_data)"
+  "code": 38,
+  "name": "2.6.8",
+  "desc": "*[Common]\n* Add drmLegacy parse\n* Update OkHttp\n* Delete Danmu"
 }
