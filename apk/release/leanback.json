@@ -1,5 +1,5 @@
 {
-  "code": 38,
-  "name": "2.6.8",
-  "desc": "*[Common]\n* Add drmLegacy parse\n* Update OkHttp\n* Delete Danmu"
+  "code": 39,
+  "name": "2.6.9",
+  "desc": "*[Common]\n* Support hosts"
 }
