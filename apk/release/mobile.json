@@ -1,5 +1,5 @@
 {
-  "code": 39,
-  "name": "2.6.9",
-  "desc": "*[Common]\n* Support hosts"
+  "code": 40,
+  "name": "2.7.0",
+  "desc": "*[Common]\n* Prevent loop\n* Add debug setting"
 }
