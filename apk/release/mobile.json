@@ -1,5 +1,5 @@
 {
-  "code": 40,
-  "name": "2.7.0",
-  "desc": "*[Common]\n* Prevent loop\n* Add debug setting"
+  "code": 41,
+  "name": "2.7.1",
+  "desc": "*[Common]\n* Prevent loop\n* Upgrade AndroidX Media 1.6.0"
 }
