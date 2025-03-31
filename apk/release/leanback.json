@@ -1,5 +1,5 @@
 {
-  "code": 41,
-  "name": "2.7.1",
-  "desc": "*[Common]\n* Prevent loop\n* Upgrade AndroidX Media 1.6.0"
+  "code": 42,
+  "name": "2.7.2",
+  "desc": "*[Common]\n* Support live spider*\n[Mobile]\n* Support expand director/other"
 }
