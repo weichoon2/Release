@@ -1,5 +1,5 @@
 {
-  "code": 43,
-  "name": "2.7.3",
-  "desc": "*[Common]\n* Upgrade AndroidX Media 1.6.1"
+  "code": 44,
+  "name": "2.7.4",
+  "desc": "*[Mobile]\n* Hide cookie in Info Dialog"
 }
