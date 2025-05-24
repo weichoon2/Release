@@ -1,5 +1,5 @@
 {
-  "code": 45,
-  "name": "2.7.5",
-  "desc": "*[Common]\n* Add newpipe(Youtube)"
+  "code": 46,
+  "name": "2.7.6",
+  "desc": "[Common]\n* Fix Youtube Playlist"
 }
