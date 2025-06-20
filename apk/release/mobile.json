@@ -1,5 +1,5 @@
 {
-  "code": 46,
-  "name": "2.7.6",
-  "desc": "[Common]\n* Fix Youtube Playlist"
+  "code": 47,
+  "name": "2.7.7",
+  "desc": "[Common]\n* Change Youtube implementation from sealedtx to TeamNewPipe\n* Update quickjs"
 }

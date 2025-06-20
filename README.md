@@ -1,6 +1,6 @@
 # Release
 
-Colbie TV (2.7.6) 
+Colbie TV (2.7.7) 
 
 从2.4.3开始，只提供Java版本。
 
