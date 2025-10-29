@@ -1,5 +1,5 @@
 {
-  "code": 48,
-  "name": "2.7.8",
-  "desc": "[Common]\n* Change Youtube implementation from sealedtx to TeamNewPipe\n* Update quickjs"
+  "code": 49,
+  "name": "2.7.9",
+  "desc": "[Common]\n* Upgrade to Gradle 8.14.3\n* Update sdk to 36\n* Update minSdk to 24\n* Upgrade AndroidX Media 1.9.0-alpha01\n* Update NewPipeExtractor 0.24.8\n* Update okhttp 5.2.1\n* Support youtube desc\n* Update nanohttpd\n* Delete JianPian"
 }
