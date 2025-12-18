@@ -1,5 +1,5 @@
 {
-  "code": 49,
-  "name": "2.7.9",
-  "desc": "[Common]\n* Upgrade to Gradle 8.14.3\n* Update sdk to 36\n* Update minSdk to 24\n* Upgrade AndroidX Media 1.9.0-alpha01\n* Update NewPipeExtractor 0.24.8\n* Update okhttp 5.2.1\n* Support youtube desc\n* Update nanohttpd\n* Delete JianPian"
+  "code": 50,
+  "name": "2.8.0",
+  "desc": "[Common]\n* Upgrade AndroidX Media 1.9.0\n* Update okhttp 5.3.2\n* Update gsonVersion 2.13.2\n* Update glideVersion 5.0.5"
 }
