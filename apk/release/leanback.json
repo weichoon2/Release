@@ -1,5 +1,5 @@
 {
-  "code": 50,
-  "name": "2.8.0",
-  "desc": "[Common]\n* Upgrade AndroidX Media 1.9.0\n* Update okhttp 5.3.2\n* Update gsonVersion 2.13.2\n* Update glideVersion 5.0.5"
+  "code": 51,
+  "name": "2.8.1",
+  "desc": "[Common]\n* Support Python Spider"
 }
