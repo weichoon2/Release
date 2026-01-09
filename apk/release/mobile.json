@@ -1,5 +1,5 @@
 {
-  "code": 51,
-  "name": "2.8.1",
-  "desc": "[Common]\n* Support Python Spider"
+  "code": 52,
+  "name": "2.8.2",
+  "desc": "[Common]\n* Restructure Live Home Position\n* Video description prettified\n* Handle Mpd without cenc:default_KID"
 }
