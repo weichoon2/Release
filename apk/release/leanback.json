@@ -1,5 +1,5 @@
 {
-  "code": 52,
-  "name": "2.8.2",
-  "desc": "[Common]\n* Restructure Live Home Position\n* Video description prettified\n* Handle Mpd without cenc:default_KID"
+  "code": 53,
+  "name": "2.8.3",
+  "desc": "[Common]\n* Upgrade AndroidX Media 1.9.1\n* Upgrade NewPipeExtractor v0.25.0"
 }
