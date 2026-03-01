@@ -1,5 +1,5 @@
 {
-  "code": 55,
-  "name": "2.8.5",
-  "desc": "[Common]\n* Upgrade AndroidX Media 1.9.2\n* Upgrade NewPipeExtractor v0.25.2"
+  "code": 56,
+  "name": "2.8.6",
+  "desc": "[Common]\n* Upgrade NewPipeExtractor v0.26.0\n* Update Douyin/Youtube Description\n* Fix Vod Content"
 }
