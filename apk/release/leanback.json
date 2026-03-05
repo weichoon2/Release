@@ -1,5 +1,5 @@
 {
-  "code": 56,
-  "name": "2.8.6",
-  "desc": "[Common]\n* Upgrade NewPipeExtractor v0.26.0\n* Update Douyin/Youtube Description\n* Fix Vod Content"
+  "code": 57,
+  "name": "2.8.7",
+  "desc": "[Mobile]\n* Disable DLNA cast\n* Hide Transmit/Pull/Proxy Setting"
 }
