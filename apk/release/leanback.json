@@ -1,5 +1,5 @@
 {
-  "code": 58,
-  "name": "2.8.8",
-  "desc": "[Common]\n* Upgrade AndroidX Media 1.10.0"
+  "code": 59,
+  "name": "2.8.9",
+  "desc": "[Common]\n* Flac/MP3 support embedded lyric"
 }
