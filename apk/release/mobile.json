@@ -1,5 +1,5 @@
 {
-  "code": 59,
-  "name": "2.8.9",
-  "desc": "[Common]\n* Flac/MP3 support embedded lyric"
+  "code": 60,
+  "name": "2.9.0",
+  "desc": "[Common]\n* Support set artwork when get playerContent\n* Upgrade NewPipeExtractor v0.26.1"
 }
