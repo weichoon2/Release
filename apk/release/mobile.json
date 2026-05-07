@@ -1,5 +1,5 @@
 {
-  "code": 60,
-  "name": "2.9.0",
-  "desc": "[Common]\n* Support set artwork when get playerContent\n* Upgrade NewPipeExtractor v0.26.1"
+  "code": 61,
+  "name": "2.9.1",
+  "desc": "[Common]\n* Update UI\n* Update NewPipeImpl USER_AGENT"
 }
