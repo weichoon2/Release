@@ -1,5 +1,5 @@
 {
-  "code": 62,
-  "name": "2.9.2",
-  "desc": "[Mobile]\n* Fix History duplicate bug"
+  "code": 63,
+  "name": "2.9.3",
+  "desc": "[Common]\n* Upgrade AndroidX Media 1.10.1"
 }
