@@ -1,5 +1,5 @@
 {
-  "code": 64,
-  "name": "2.9.4",
-  "desc": "[Common]\n* Support subtitle for parse"
+  "code": 65,
+  "name": "2.9.5",
+  "desc": "[Common]\n* Remove Opening/Ending button\n[Leanback]\n*  Fix title display bug"
 }
