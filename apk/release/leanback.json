@@ -1,5 +1,5 @@
 {
-  "code": 65,
-  "name": "2.9.5",
-  "desc": "[Common]\n* Remove Opening/Ending button\n[Leanback]\n*  Fix title display bug"
+  "code": 66,
+  "name": "2.9.6",
+  "desc": "[Common]\n* Fix Youtube\n* Upgrade NewPipeExtractor v0.26.2 with local hotfix"
 }
