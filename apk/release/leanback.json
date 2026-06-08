@@ -1,5 +1,5 @@
 {
-  "code": 66,
-  "name": "2.9.6",
-  "desc": "[Common]\n* Fix Youtube\n* Upgrade NewPipeExtractor v0.26.2 with local hotfix"
+  "code": 67,
+  "name": "2.9.7",
+  "desc": "[Common]\n* Support YT Cookie\n[Mobile]\n* Hide Authorization in Info Dialog"
 }
