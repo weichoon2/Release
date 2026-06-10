@@ -1,5 +1,5 @@
 {
-  "code": 67,
-  "name": "2.9.7",
-  "desc": "[Common]\n* Support YT Cookie\n[Mobile]\n* Hide Authorization in Info Dialog"
+  "code": 68,
+  "name": "2.9.8",
+  "desc": "[Common]\n* Upgrade NewPipeExtractor v0.26.3\n[Leanback]\n* Fix part"
 }
