@@ -1,5 +1,5 @@
 {
-  "code": 68,
-  "name": "2.9.8",
-  "desc": "[Common]\n* Upgrade NewPipeExtractor v0.26.3\n[Leanback]\n* Fix part"
+  "code": 69,
+  "name": "2.9.9",
+  "desc": "[Common]\n* Upgrade Okhttp 5.4.0\n* Youtube subtitle support\n* Use ANDROID_VR instead of visionOS for NewPipeExtractor"
 }
