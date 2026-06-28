@@ -1,5 +1,5 @@
 {
-  "code": 69,
-  "name": "2.9.9",
-  "desc": "[Common]\n* Upgrade Okhttp 5.4.0\n* Youtube subtitle support\n* Use ANDROID_VR instead of visionOS for NewPipeExtractor"
+  "code": 70,
+  "name": "3.0.0",
+  "desc": "[Common]\n* Show Episode Index\n* Support MP2 Format"
 }
