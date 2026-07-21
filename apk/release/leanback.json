@@ -1,5 +1,5 @@
 {
-  "code": 70,
-  "name": "3.0.0",
-  "desc": "[Common]\n* Show Episode Index\n* Support MP2 Format"
+  "code": 71,
+  "name": "3.0.1",
+  "desc": "[Common]\n* Upgrade NewPipeExtractor v0.26.4"
 }
